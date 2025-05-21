@@ -37,7 +37,7 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/JoaoGabriel04/Jogo-da-Mem-ria.git
 Acesse a pasta do projeto:
 
 bash
