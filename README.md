@@ -42,13 +42,6 @@ Acesse a pasta do projeto:
 
 bash
 Copiar código
-cd nome-do-projeto
-Abra o arquivo index.html no seu navegador.
-
-Ou, se for um projeto React:
-
-bash
-Copiar código
 npm install
 npm start
 
