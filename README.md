@@ -37,15 +37,8 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/JoaoGabriel04/Jogo-da-Mem-ria.git
 Acesse a pasta do projeto:
-
-bash
-Copiar código
-cd nome-do-projeto
-Abra o arquivo index.html no seu navegador.
-
-Ou, se for um projeto React:
 
 bash
 Copiar código
@@ -64,7 +57,8 @@ O jogo foi projetado para funcionar bem em computadores, tablets e smartphones.
 
 🎨 Temas variados para as cartas
 
-## 📸 [Preview](.\public\assets\screenshots\image-1.jpg)
+## 📸 Preview do Jogo
+![Game Preview](public/assets/screenshots/image-1.jpg)
 
 ## 💡 Créditos
 Desenvolvido por João Gabriel Castro Silva 🚀
