@@ -64,7 +64,8 @@ O jogo foi projetado para funcionar bem em computadores, tablets e smartphones.
 
 🎨 Temas variados para as cartas
 
-## 📸 (public/assets/screenshots/image-1.jpg)
+## 📸 Preview do Jogo
+![Game Preview](public/assets/screenshots/image-1.jpg)
 
 ## 💡 Créditos
 Desenvolvido por João Gabriel Castro Silva 🚀
